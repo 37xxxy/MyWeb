@@ -1,0 +1,256 @@
+@media (min-width: 1940px) {
+  .wp {
+    width: 88rem;
+    padding: 0;
+    margin: 0 auto;
+    max-width: 94%;
+  }
+  .banner-c {
+    height: 420px;
+    width: 100%;
+  }
+}
+@media (max-width: 3160px) {
+  .information_list_bg {
+    height: 100%;
+    width: 100%;
+  }
+  .pagedao1{
+    display: block;
+  }
+
+  .pagedao2{
+    display: none;
+  }
+}
+
+@media (max-width: 2160px) {
+  .banner-c {
+    height: 475px;
+    width: 100%;
+  }
+}
+
+@media (max-width: 1940px) {
+  .banner-c{
+    height: 420px;
+    width: 100%;
+  }
+}
+@media (max-width: 1740px) {
+  .banner-c {
+    height: 380px;
+    width: 100%;
+  }
+}
+
+@media (max-width: 1600px) {
+  .banner-c {
+    height: 350px;
+    width: 100%;
+  }
+}
+
+@media (max-width: 1440px) {
+  .banner-c {
+    height: 300px;
+    width: 100%;
+  }
+  
+}
+
+@media (max-width: 1200px) {
+
+    .page-main-box .page-main .left-menu {
+    margin-bottom: 60px;
+    float: left;
+    text-align: left;
+    position: relative;
+    top: 65px;
+    width: 100%;
+  }
+  .page-main-box .page-main .left-menu .head {
+    width: 100%;
+    height: 65px;
+    line-height: 65px;
+    background: #d6000f;
+    font-size: 20px;
+    color: #ffffff;
+    text-indent: 40px;
+    margin-top: -60px;
+  }
+  .page-main-box .page-main .left-menu ul {
+    width: 100%;
+    font-size: 16px;
+    color: #ffffff;
+    background: #f2f2f2;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .page-main-box .page-main .left-menu ul li {
+    width: auto;
+    text-indent: 40px;
+    text-align: left;
+    height: 40px;
+    line-height: 40px;
+    display: inline-block;
+    border-left: 0px solid #d6000f;
+  }
+  .page-main-box .page-main .right-main-box-box {
+    float: left;
+    position: unset;
+    top: 100px;
+    margin-bottom: 50px;
+  }
+
+
+  .banner-c {
+    height: 250px;
+    width: 100%;
+  }
+
+  .page-main-box .page-main {
+    width: 82%;
+    margin: 0 auto;
+  }
+  .page-main-box .page-main .right-main-box .right-main {
+    margin-left: 0px;
+  }
+  .page-main-box .page-main .right-main-box-box {
+    width: 100%;
+  }
+  .page-main-box .page-main .right-main-box .right-main {
+    width: 100%;
+    min-height: 500px;
+  }
+
+}
+
+@media (max-width: 1025px) {
+  .page-main-box .page-main .right-main-box .right-main .essay-list li .list-title {
+    display: inline-block;
+    max-width: 240px;
+    height: 70px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: unset;
+  }
+
+  .page-main-box .page-main .right-main-box .right-main .essay-list li {
+    width: 100%;
+    height: 70px;
+    line-height: 35px;
+    font-size: 14px;
+    text-align: left;
+    text-indent: 0px;
+    border-bottom: 1px solid #cccccc;
+    position: relative;
+  }
+  
+  .information_list_content_trap {
+    margin-top: 0px;
+  }
+  .banner-c {
+    height: 200px;
+    width: 100%;
+  }
+
+  .slider_title {
+    position: relative;
+    top: 30px;
+    left: 60px;
+  }
+  .slider_title h3 {
+    font-size: 1.5rem;
+    color: #b4000c;
+  }
+  .list > p a {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 210px;
+  }
+
+  .information_slider>ul{
+    display: none;
+  }
+  .n_piclist li h2 {
+    line-height: 2rem;
+    margin-top: 0.5rem;
+  }
+
+  .n_piclist li {
+    margin-bottom: 1.2rem;
+  }
+
+  .n_piclist {
+    padding-top: 0.5rem;
+  }
+}
+
+
+@media (max-width: 769px) {
+
+  .page-main-box .page-main {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+
+
+
+
+  .pagedao1{
+    display: none;
+  }
+
+  .pagedao2{
+    display: block;
+  }
+
+  .page-main-box .page-main .right-main-box .right-main .pagedao a {
+    padding: 0 7px;
+  }
+
+  .information_list_content_trap {
+    margin-top: 0px;
+  }
+  .banner-c {
+    height: 88px;
+    width: 100%;
+  }
+
+  .slider_title {
+    position: relative;
+    top: 30px;
+    left: 60px;
+  }
+  .slider_title h3 {
+    color: #b4000c;
+  }
+  .list > p a {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 210px;
+  }
+
+  .n_piclist li {
+    width: 48%;
+    margin-left: 0;
+  }
+  .n_piclist ul {
+    justify-content: space-between;
+  }
+}
+
+@media (max-width: 480px) {
+  
+}
+
+@media (max-width: 400px) {
+  .page-main-box .page-main .left-menu ul li {
+    text-indent: 30px;
+  }
+}
